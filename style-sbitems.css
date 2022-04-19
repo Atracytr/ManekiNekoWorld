@@ -1,0 +1,81 @@
+#logo {
+	height: 4vw;
+	width: 4vw;
+	padding: 10px;
+
+}
+
+.name {
+	font-family: "Anek Telugu", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+body {
+	background-color: #FFFAFB;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.container-sbitems {
+
+	margin: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	/* background-color: DodgerBlue; */
+	justify-content: left;
+	margin-top:  50px;
+    /* background-color: yellowgreen; */
+}
+
+.container-sbitems > div {
+	background-color: #FCE1E5;
+	width: 20%;
+	height: 20%;
+	text-align: center;
+	font-family: "Lora", sans-serif;
+	font-size: 1.7vw;
+	margin: 3%;
+}
+
+.product {
+	width: 100%;
+	height: 100%; 
+
+}
+
+#sbitems-name-pd1 {
+	margin-top: 2rem; 
+	margin-bottom: 1rem;
+	font-family: "Lora", sans-serif;
+	font-size: 2vw; 
+	text-align: left;
+    background-color: turquoise;
+
+}
+
+
+#pagename {
+    margin-top: 150px;
+    font-size: 2vw;
+    text-align: center;
+    padding: 20px;
+	font-family: "Lora", sans-serif;
+	font-size: 2.7vw; 
+}
+
+
+#footer{
+	background-color: #513E43;
+	color:  white;
+	text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+#official-message {
+	text-align: center;
+}

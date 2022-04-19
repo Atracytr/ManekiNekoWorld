@@ -1,0 +1,47 @@
+#logo {
+	height: 4vw;
+	width: 4vw;
+	padding: 10px;
+
+}
+
+.name {
+	font-family: "Anek Telugu", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+body {
+	background-color: #FFFAFB;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+#page-title {
+    margin-top: 150px;
+	font-family: "Lora", sans-serif;
+	font-size: 2.7vw; 
+	text-align: center;
+}
+
+.contact-info{
+    font-size: 1.5vw;
+    margin-left: 5%;
+}
+
+
+#footer{
+	background-color: #513E43;
+	color:  white;
+	text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+#official-message {
+	text-align: center;
+}
